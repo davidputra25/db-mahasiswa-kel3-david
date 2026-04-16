@@ -65,7 +65,6 @@ Buat simulasi berikut:
 
 ## Kelompok 3
 Tambahkan nama anggota kelompok di sini:
-Raddin Pratama R
 - David Alif
 - Dafa Agasya
 - Deff Rasya Islami
